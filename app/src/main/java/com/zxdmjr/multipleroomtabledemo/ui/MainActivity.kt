@@ -1,4 +1,4 @@
-package com.zxdmjr.multipleroomtabledemo
+package com.zxdmjr.multipleroomtabledemo.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
